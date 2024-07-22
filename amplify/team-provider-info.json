@@ -10,6 +10,11 @@
       "StackName": "amplify-datafoundaryapp-dev-edd0a",
       "StackId": "arn:aws:cloudformation:us-east-1:381491906788:stack/amplify-datafoundaryapp-dev-edd0a/9efcf6c0-47f6-11ef-a37a-0ea3f84b12d9",
       "AmplifyAppId": "d2xfevgo9fwlx0"
+    },
+    "categories": {
+      "auth": {
+        "datafoundaryappfbfbd953": {}
+      }
     }
   }
 }
