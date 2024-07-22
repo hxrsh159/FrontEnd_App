@@ -1,0 +1,13 @@
+{
+  "resourceName": "Files",
+  "policyUUID": "397b5847",
+  "bucketName": "s3files",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "S3Triggerf397b536",
+  "groupAccess": {}
+}
